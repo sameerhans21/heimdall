@@ -22,7 +22,7 @@ For all the datasets in training, I have all the violent videos in **Fight** fol
 ## best_vmae_chat_ucf3.pth
 - This model can be used to detect violence directly, i explained in the script how to use it directly.
 - TRAINED ON
--- RWF-2000/train, hockeyFight, surveillance-camera-fight, RealLifeViolenceDataset, chatalet_2_train, movies, ucf(fight,assault))
+-->** RWF-2000/train, hockeyFight, surveillance-camera-fight, RealLifeViolenceDataset, chatalet_2_train, movies, ucf(fight,assault))**
 
 ---
  
